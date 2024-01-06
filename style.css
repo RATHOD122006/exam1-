@@ -1,0 +1,63 @@
+.ere{
+    background-image: url("./18220884_v1016-b-09.jpg");
+    background-size: cover;
+    height: 670px;
+    background-attachment: fixed;
+    text-align: center;   
+
+
+}
+.rt{
+    color: white;
+   background-color: black;
+    display: inline-block;
+    margin-top: 300px;
+   
+}
+.ty{
+    color: rgb(0, 0, 0);
+   
+
+}
+.sty{
+    background-image: url("./motivational-composition-goal-achievement.jpg");
+    background-size: cover;
+    height: 670px;
+    background-attachment: fixed;
+    
+    text-align: center;
+    
+
+}
+.ui{
+    color: white;
+    background-color: black;
+    display: inline-block;
+    margin-top: 300px;
+
+}
+.ol{
+    color: rgb(0, 0, 0);
+   
+
+}
+.bg{
+    background-image: url("./set-office-supplies.jpg");
+    background-size: cover;
+    height: 670px;
+    background-attachment: fixed;
+   
+    text-align: center;
+    
+}
+.mn{ 
+    color: white;
+    background-color: black;
+    display: inline-block;
+    margin-top: 300px;
+}
+.pl{ color: rgb(0, 0, 0);
+}
+body{
+    margin: 0px;
+}
